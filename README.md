@@ -1,4 +1,4 @@
-# Ahmed-School-of-Applied-Technology-
+# Nemon Technology University (NTU)
 ##  Coding Kitty
 
 ## Summary
