@@ -44,7 +44,7 @@ In each term there is 3 Month Coursework <br />
 |---|---|---|
 | Intro to Object Oriented Programming  |  |   |
 | Cli Wisadory  |  Learn Bash Scripting, Git, Github  |   |
-|   |   |   |
+|  Probability and Statistics |   |   |
 |    |   |   |
 
 ## Sophomore Year
