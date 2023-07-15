@@ -26,8 +26,7 @@ In each term there is 3 Month Coursework
 | Intro to Computer Science  |  How does computers work|   |
 | Intro to Programming   | 60 Days of code challenge in C language   |   |
 |   |   |   |
-| Communication Skills
-  |   |   |
+| Communication Skills   | Presentation Skills, How to make a personal brand   |   |
 
 **Second Term**
 
