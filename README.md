@@ -1,4 +1,4 @@
-## Neon School of Tech (NST)
+## Nemon School of Tech (NST)
 
 
 ## Summary
