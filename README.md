@@ -11,11 +11,11 @@ This is an Open Computer Science Curriculum made from the **compilation of the b
 
 
 ## Course Structure 
-Major: Software Development 
-Total Duration 4 Year
-4 Courses per 1 Term - Total: 48 Courses in 4 Years
-3 Terms per 1 year - Total: 12 terms in 4 Years
-In each term there is 3 Month Coursework
+Major: Software Development <br /> 
+Total Duration 4 Year <br /> 
+4 Courses per 1 Term - Total: 48 Courses in 4 Years <br /> 
+3 Terms per 1 year - Total: 12 terms in 4 Years <br /> 
+In each term there is 3 Month Coursework <br /> 
 
 ## Freshmen Year
 
