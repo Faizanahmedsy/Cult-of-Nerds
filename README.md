@@ -23,8 +23,8 @@ In each term there is 3 Month Coursework
 
 | Course  | Topics  | Resources  |
 |---|---|---|
-| Intro to Computer Science  |   |   |
-| Intro to Programming   |   |   |
+| Intro to Computer Science  |  How does computers work|   |
+| Intro to Programming   | 60 Days of code challenge in C language   |   |
 |   |   |   |
 | Communication Skills
   |   |   |
