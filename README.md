@@ -1,4 +1,4 @@
-# Nemon Technology University (NTU)
+# Nemon School of Tech (NST)
 ##  Coding Kitty
 
 ## Summary
