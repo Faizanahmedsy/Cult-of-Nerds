@@ -26,7 +26,7 @@ In each term there is 3 Month Coursework <br />
 | Intro to Computer Science  |  How does computers work|   |
 | Intro to Programming   | 60 Days of code challenge in C language   |   |
 | Problem Solving in Pseudo Code  |   |   |
-| Communication Skills   | Presentation Skills, How to make a personal brand   |   |
+| Professional Communication Skills   | Presentation Skills, Formal Behaviour |   |
 
 
 **Second Term**
@@ -36,7 +36,7 @@ In each term there is 3 Month Coursework <br />
 | Intro to Discrete Mathematics  |  Learn the logic behind Google maps|   |
 | Thinking Code  | 60 Days of code challenge    |   |
 |   |   |   |
-|    |   |   |
+|  Networking and Personal Brand  |   |   |
 
 **Third Term**
 
@@ -45,7 +45,7 @@ In each term there is 3 Month Coursework <br />
 | Intro to Object Oriented Programming  |  |   |
 | Cli Wisadory  |  Learn Bash Scripting, Git, Github  |   |
 |  Probability and Statistics |   |   |
-|    |   |   |
+|  Exploring Computer Science  | intro to different fields in computer Science |   |
 
 ## Sophomore Year
 
