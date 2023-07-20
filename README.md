@@ -1,6 +1,7 @@
 ## Nemon School of Tech (NST)
 
 **Note** At this stage it is incomplete, it will be completed before 31st of July 2023
+We are planning to make a github repo, a website for curriculum, a mobile app to track your progress, and discord server for discussions  
 
 ## Summary
 This is an Open Computer Science Curriculum made from the **compilation of the best resources available for mankind** on YouTube, LinkedIn, Instagram, Twitter and the entire internet, Specifically **made for Ambitious Tier 3 Students** of BTech(of equivalent), or those who are coming from non-tech formal education 
