@@ -1,6 +1,6 @@
-## Nemon School of Tech (NST)
+## Cult of Nerds
 
-NST is a not for profit organization development for computer science enthusiasts from teir 3 colleges in india
+Cult of Nerds is a not for profit organization development for computer science enthusiasts from teir 3 colleges in india
 
 **Note** At this stage it is incomplete, it will be completed before 31st of July 2023
 We are planning to make a github repo, a website for curriculum, a mobile app to track your progress, and discord server for discussions  
