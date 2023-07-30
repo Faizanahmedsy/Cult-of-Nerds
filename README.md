@@ -2,7 +2,7 @@
 
 Cult of Nerds is a not for profit organization developed for computer science enthusiasts from teir 3 colleges in india
 
-**Note** At this stage it is incomplete, it will be completed before 31st of July 2023
+**Note** At this stage it is incomplete, it will be completed before 31st of August 2023
 We are planning to make a github repo, a website for curriculum, a mobile app to track your progress, and discord server for discussions  
 
 Discord Community - https://discord.gg/xhgguJdJ
