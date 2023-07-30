@@ -29,7 +29,7 @@ In each term there is 3 Month Coursework <br />
 
 | Course  | Topics  | Resources  |
 |---|---|---|
-| Intro to Computer Science  |  How does computers work|   |
+| Intro to Computer Science  |  How does computers work| https://docs.google.com/document/d/1J348tdg_W2HpAKYXEMniVNQopl0QPZW_YnM_P-J99Qc/edit?usp=sharing  |
 | Intro to Programming   | 60 Days of code challenge in C language   |   |
 | Problem Solving in Pseudo Code  |   |   |
 | Professional Communication Skills   | Presentation Skills, Formal Behaviour |   |
