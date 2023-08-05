@@ -8,7 +8,7 @@ We are planning to make a github repo, a website for curriculum, a mobile app to
 
 
 ## Summary
-This is an Open Computer Science Curriculum made from the **compilation of the best resources available for mankind** on YouTube, LinkedIn, Instagram, Twitter and the entire internet, Specifically **made for Ambitious Tier 3 Students** of BTech(of equivalent), or those who are coming from non-tech formal education 
+This is an Open Computer Science Curriculum made from the **compilation of the best resources available for mankind** on YouTube, LinkedIn, Instagram, Twitter and the entire internet, Specifically **made for Ambitious Tier 3 Students** of BTech(or equivalent), or those who are coming from non-tech formal education 
 
 
 **What Problem We Solve ? ::** College curriculum in India sucks, specially for those who are aiming to acquire skills, learning from YouTube instead seems to be a better option, But how to know which tutorial/documentation/notes/projects are ACTUALLY good? and would be a good use of our time? and in what structure should we learn them ? that's where we come in 
