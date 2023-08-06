@@ -7,6 +7,9 @@ We are planning to make a github repo, a website for curriculum, a mobile app to
 
 
 
+Join us on discord: https://discord.gg/euxZMZeJ
+
+
 ## Summary
 This is an Open Computer Science Curriculum made from the **compilation of the best resources available for mankind** on YouTube, LinkedIn, Instagram, Twitter and the entire internet, Specifically **made for Ambitious Tier 3 Students** of BTech(or equivalent), or those who are coming from non-tech formal education 
 
